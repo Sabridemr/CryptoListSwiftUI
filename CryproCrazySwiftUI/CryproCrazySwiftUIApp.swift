@@ -11,7 +11,7 @@ import SwiftUI
 struct CryproCrazySwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Main()
         }
     }
 }
